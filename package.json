@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "private": true,
   "engines": {
-    "node": ">=18"
+    "node": ">=17"
   },
   "workspaces": [
     "langchain",
